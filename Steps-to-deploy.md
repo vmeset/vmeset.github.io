@@ -2,7 +2,7 @@
 
   - git clone
 
-  - cd chandrikadeb7.github.io
+  - cd vmeset
 
   - source ~/.nvm/nvm.sh
 
