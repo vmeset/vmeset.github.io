@@ -1,9 +1,9 @@
 ---
-date: '1'
+date: '3'
 title: 'MyShop'
 cover: 'myShop.png'
 github: 'https://github.com/vmeset/project01'
-external: 'https://react-shop24.herokuapp.com/'
+external: 'https://myshop-l8n4.onrender.com/'
 tech:
   - Javascript
   - Express

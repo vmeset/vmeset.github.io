@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Alexander Luzin | Frontend Developer',
   siteDescription:
-    'c a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Software Developer, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Alexander Luzin, Alexander, Luzin, vmeset, software developer, software engineer, web developer, javascript developer, frontend developer, react, redux, nextjs',
   siteUrl: 'https://vmeset.github.io/',

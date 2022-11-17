@@ -1,7 +1,7 @@
 ---
 date: '2020-11-05'
 title: 'Контент менеджер'
-company: 'МНПЦ наркологии'
+company: 'Narcologos'
 range: 'Март 2008 - Апрель 2013'
 url: 'https://narcologos.ru/'
 ---

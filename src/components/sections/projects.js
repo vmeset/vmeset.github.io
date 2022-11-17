@@ -146,9 +146,9 @@ const Projects = ({ data }) => {
 
   return (
     <StyledContainer>
-      <StyledTitle ref={revealTitle}>Other Noteworthy Projects</StyledTitle>
+      <StyledTitle ref={revealTitle}>Другие примечательные проекты</StyledTitle>
       <StyledArchiveLink to="/archive" ref={revealArchiveLink}>
-        View Complete List of Projects/Codes
+        Полный список(архив)
       </StyledArchiveLink>
 
       <StyledGrid>

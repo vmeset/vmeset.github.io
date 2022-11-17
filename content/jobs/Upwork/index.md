@@ -2,7 +2,7 @@
 date: '2022-07-07'
 title: 'Верстальщик / web разработчик'
 company: 'Upwork'
-range: 'Октябрь 2017 - Декабрь 2019'
+range: 'Сентябрь 2017 - Декабрь 2019'
 url: 'https://www.upwork.com/'
 ---
 
